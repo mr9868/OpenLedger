@@ -5,7 +5,7 @@ testnet.openledger.xyz
 > 
 > After VNC installed on your server, you must download VNC viewer on your monitoring device. You can download from [this](https://www.realvnc.com/en/connect/download/viewer)
 > 
-> After that, You must connected to your VNC server. to connect you must put example : `IPaddres:5901` to connect to the VNC server
+> After that, You must connected to your VNC server. to connect you must put, example `IPaddres:5901` to connect to the VNC server
 > 
 > And then open your VNC server and execute this :
 > ```
