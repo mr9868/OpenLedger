@@ -7,7 +7,7 @@ testnet.openledger.xyz
 > 
 > After that, You must connected to your VNC server. to connect you must put, example `IPaddres:5901` to connect to the VNC server
 > 
-> And then open your VNC server and execute this :
+> And then open terminal on your VNC server and execute this :
 > ```
 > wget -O openLedger.zip https://cdn.openledger.xyz/openledger-node-1.0.0-linux.zip ;
 > unzip openLedger.zip ;
